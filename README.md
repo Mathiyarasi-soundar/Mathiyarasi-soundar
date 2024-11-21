@@ -4,7 +4,10 @@
   <img src="https://github.com/user-attachments/assets/49ff329f-8be0-40a9-ac53-c613f1612857" alt="Hi there" width="200"/>
 </div>
 
-Freelance Developer
+<div align="center">
+  A Passionate Freelance Developer
+</div>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <div style="flex: 1;">
