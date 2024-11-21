@@ -11,6 +11,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <div style="flex: 1;">
+    - This is the text aligned to the left.
+    - You can describe your project here.
+    - Continue adding more details as needed.
 - 🌱 I’m currently learning React
 - Website : https://mathiyarasi-soundar.github.io/
 - 📫 How to reach me :   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mathiyarasi85/)
