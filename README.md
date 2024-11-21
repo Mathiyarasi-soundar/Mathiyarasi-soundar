@@ -1,13 +1,16 @@
 ## Hi there 👋 It's me Mathiyarasi
 
+- 🌱 I’m currently learning React
+- Website : https://mathiyarasi-soundar.github.io/
+- 📫 How to reach me :   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mathiyarasi85/)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/49ff329f-8be0-40a9-ac53-c613f1612857" alt="Hi there" width="200"/>
 </div>
 
 <div align="center">
-  A Passionate Freelance Developer
+ ## A Passionate Freelance Developer
 </div>
-
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <div style="flex: 1;">
