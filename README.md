@@ -8,34 +8,21 @@
 A Passionate Freelance Developer
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align="left";>
    <div style="flex: 1;">
 
 - 🌱 I’m currently learning React
-- Website : https://mathiyarasi-soundar.github.io/
+- To view my website [click here](https://mathiyarasi-soundar.github.io/)
 - 📫 How to reach me :   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mathiyarasi85/)
 
    </div>
-   <div style="flex-shrink: 0; margin-left: 20px;">
+   <div style="flex-shrink: 0; margin-left: 20px; align="right";>
    
 <img src="https://github.com/user-attachments/assets/f0ab21b7-494c-4aef-9cfd-e14916301745" alt="" width="400"/>
 
    </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-   <div style="flex: 1;">
-     - I'm currently learning React.
-     - To view my website touch here [https://mathiyarasi-soundar.github.io/]
-- 🌱 I’m currently learning React
-- Website : https://mathiyarasi-soundar.github.io/
-- 📫 How to reach me :   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mathiyarasi85/)
-   </div>
-  
-   <div style="flex-shrink: 0; margin-left: 20px;">
-   <img src="https://github.com/user-attachments/assets/f0ab21b7-494c-4aef-9cfd-e14916301745" alt="" width="400"/>
-   </div>
-</div>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
