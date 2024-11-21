@@ -10,6 +10,7 @@ A Passionate Freelance Developer
 
 <div style="display: inline-block; width: 70%; vertical-align: top;">
    <div style="flex: 1;">
+     
 - I'm a **Frontend Developer** and **React Enthusiast** passionate about building dynamic and user-friendly web applications. I am currently seeking new opportunities to grow my skills and contribute to exciting projects.
 - 🎓 I have learned **React** and **Frontend Development** through self-study, online courses, and hands-on projects.
 - 💻 My primary focus is on creating **responsive, efficient, and interactive websites** using **React**, **HTML**, **CSS**, and **JavaScript**.
