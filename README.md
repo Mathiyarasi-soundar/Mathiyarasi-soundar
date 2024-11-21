@@ -10,6 +10,11 @@ A Passionate Freelance Developer
 
 <div style="display: inline-block; width: 70%; vertical-align: top;">
    <div style="flex: 1;">
+- I'm a **Frontend Developer** and **React Enthusiast** passionate about building dynamic and user-friendly web applications. I am currently seeking new opportunities to grow my skills and contribute to exciting projects.
+- 🎓 I have learned **React** and **Frontend Development** through self-study, online courses, and hands-on projects.
+- 💻 My primary focus is on creating **responsive, efficient, and interactive websites** using **React**, **HTML**, **CSS**, and **JavaScript**.
+- 🌱 I’m currently learning more about **UI/UX design** to enhance my web development skills.
+- 📚 I believe in continuous learning, so I’m constantly working on improving my coding practices and expanding my knowledge of new technologies.
 
 - 🌱 I’m currently learning React
 - To view my website [click here](https://mathiyarasi-soundar.github.io/)
@@ -23,6 +28,12 @@ A Passionate Freelance Developer
    </div>
 </div>
 
+## Contact Me
+
+- 📧 **Email**: mathisoundar2004@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🌐 **Website**: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 💬 **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
