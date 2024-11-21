@@ -8,7 +8,7 @@
 A Passionate Freelance Developer
 </div>
 
-<div style="display: flex; justify-content: space-between; align="left";>
+<div style="display: inline-block; width: 70%; vertical-align: top;">
    <div style="flex: 1;">
 
 - 🌱 I’m currently learning React
@@ -16,7 +16,7 @@ A Passionate Freelance Developer
 - 📫 How to reach me :   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mathiyarasi85/)
 
    </div>
-   <div style="flex-shrink: 0; margin-left: 20px; align="right";>
+   <div style="display: inline-block; width: 28%; vertical-align: top; text-align: right;">
    
 <img src="https://github.com/user-attachments/assets/f0ab21b7-494c-4aef-9cfd-e14916301745" alt="" width="400"/>
 
