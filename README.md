@@ -1,5 +1,5 @@
 ## Hi there 👋 It's me Mathiyarasi
-!![image](https://github.com/user-attachments/assets/49ff329f-8be0-40a9-ac53-c613f1612857)
+                                              ![image](https://github.com/user-attachments/assets/49ff329f-8be0-40a9-ac53-c613f1612857)
 
 Freelance Developer
                                                 
@@ -7,7 +7,7 @@ Freelance Developer
 - Website : https://mathiyarasi-soundar.github.io/
 - 📫 How to reach me : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mathiyarasi85/)
 
-![image](https://github.com/user-attachments/assets/f0ab21b7-494c-4aef-9cfd-e14916301745)
+                                                                                                ![image](https://github.com/user-attachments/assets/f0ab21b7-494c-4aef-9cfd-e14916301745)
 
 
 ### I code in
