@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a data enthusiast with a passion for uncovering storie
 | 📦 **Zepto Sales Analysis** | SQL, Excel, Power BI, NumPy | An end-to-end data project simulating sales data for Zepto, involving cleaning, analysis, and visualization to gain business insights. |
 | 📈 **Retail Sales Insights** | Excel, Power BI | Cleaned and analyzed sales data to build interactive dashboards highlighting KPIs like profit, region performance, and customer segments. |
 
-Explore my [repositories](https://github.com/yourusername?tab=repositories) to see more!
+Explore my [repositories](https://github.com/Mathiyarasi-soundar?tab=repositories) to see more!
 
 ---
 
@@ -35,21 +35,11 @@ I'm actively looking for opportunities to apply my skills in real-world business
 
 ---
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-
-
 ## Let's Connect
 
 - 📧 **Email**: mathisoundar2004@gmail.com
 - 💼 **LinkedIn**: [https://linkedin.com/mathiyarasi.s](https://www.linkedin.com/in/mathiyarasi85/)
 - 📝 **Portfolio**: [https://mathiyarasi.com](https://mathiyarasi-soundar.github.io/)
-
-
 
 ---
 
